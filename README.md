@@ -1,28 +1,10 @@
-# ClassInstanceVariable
+# class_instance_variable
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/class_instance_variable`. To experiment with that code, run `bin/console` for an interactive prompt.
+A simple implementation of class instance variables, mostly because I can never remember the specific syntax necessary to create them, and because having several lines of code to do something so simple and commonly-used annoyed me.
 
-TODO: Delete this and the text above, and describe your gem
+## IMPORTANT
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'class_instance_variable'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install class_instance_variable
-
-## Usage
-
-TODO: Write usage instructions here
+This gem is very much incomplete - please don't use it until this notice is removed :)
 
 ## Development
 
@@ -32,7 +14,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/class_instance_variable.
+Bug reports and pull requests are welcome on GitHub at [https://github.com/lyndsysimon/class_instance_variable/](https://github.com/lyndsysimon/class_instance_variable/).
 
 ## License
 
